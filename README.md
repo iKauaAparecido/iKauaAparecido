@@ -74,7 +74,7 @@ Olá! 😛 Me chamo Kauã Aparecido, tenho 19 anos e sou estudante de Engenharia
 <img 
     align="right"
     alt="GitHubStats"
-    height="85"
+    height="100"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAparecido-TheKasm&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&custom_title=Tecnologias&count_private=true" 
 />
